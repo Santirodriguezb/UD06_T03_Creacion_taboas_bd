@@ -1,6 +1,6 @@
 <?php
 
-	//Conexión
+	//Conexión.
 
 	$conexionBD = @mysqli_connect('localhost', 'Santi', '1234');
 
